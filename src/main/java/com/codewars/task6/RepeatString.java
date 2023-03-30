@@ -1,6 +1,6 @@
 package com.codewars.task6;
 
-public class ReapetString {
+public class RepeatString {
     public static String repeatStr(final int repeat, final String string) {
         /***
          its redundant!!
