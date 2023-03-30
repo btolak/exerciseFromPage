@@ -1,6 +1,6 @@
 package com.codewars.task1;
 
-public class Kata {
+public class RockPaperScissors {
     public static String rps(String p1 , String p2) {
         String p1Won="Player 1 won!";
         String p2Won="Player 2 won!";
