@@ -1,4 +1,4 @@
-package com.codewars.task4;
+package com.codewars.kyu_8.task4;
 
 public class BasicOperations {
     public static Integer basicMath(String op, int v1, int v2) {

@@ -1,4 +1,4 @@
-package com.codewars.task2;
+package com.codewars.kyu_8.task2;
 
 
 import java.util.stream.IntStream;

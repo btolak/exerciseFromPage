@@ -1,4 +1,4 @@
-package com.codewars.task6;
+package com.codewars.kyu_8.task6;
 
 public class RepeatString {
     public static String repeatStr(final int repeat, final String string) {

@@ -1,4 +1,4 @@
-package com.codewars.task3;
+package com.codewars.kyu_8.task3;
 
 public class CountSheeps {
 

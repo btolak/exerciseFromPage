@@ -1,4 +1,4 @@
-package com.codewars.task5;
+package com.codewars.kyu_8.task5;
 
 
 public class CountPositivesSumNegatives {

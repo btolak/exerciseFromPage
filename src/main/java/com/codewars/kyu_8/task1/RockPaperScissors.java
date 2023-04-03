@@ -1,4 +1,4 @@
-package com.codewars.task1;
+package com.codewars.kyu_8.task1;
 
 public class RockPaperScissors {
     public static String rps(String p1 , String p2) {

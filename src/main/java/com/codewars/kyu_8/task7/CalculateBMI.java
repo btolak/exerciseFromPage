@@ -1,4 +1,4 @@
-package com.codewars.task7;
+package com.codewars.kyu_8.task7;
 
 public class CalculateBMI {
     public static String bmi(double weight, double height) {
